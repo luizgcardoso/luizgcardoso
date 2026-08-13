@@ -13,7 +13,7 @@
 ### 🛠️ Tecnologias que utilizo frequentemente
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,angular,tailwind,nodejs,postgres,mysql,firebase,html,css,java,git,github,vscode&perline=8" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,mysql,html,css,java,git,github,vscode&perline=8" alt="Tecnologias" />
 </div>
 
 ---
@@ -22,7 +22,7 @@
 
 Aqui estão alguns dos projetos que mais me orgulho (e que ainda estou evoluindo):
 
-- **[vue-plataformaArtigos](https://github.com/luizgcardoso/vue-plataformaArtigos)** — Plataforma para leitura/publicação de artigos (Vue 3 + composição API)  
+- **[desafio-tasks](https://github.com/luizgcardoso/desafio-tasks)** — To-Do List Web App (TypeScript + React + TypeORM) 
 - **[next-crud](https://github.com/luizgcardoso/next-crud)** — CRUD moderno com Server Components, Client Components e TypeScript  
 - **[react-crud-v1.0](https://github.com/luizgcardoso/react-crud-v1.0)** — Primeiro CRUD fullstack (React + Node + BD)  
 - Experimentos em Java, desafios pessoais e forks interessantes...
