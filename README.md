@@ -1,20 +1,25 @@
+<div align="center">
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
+  <!-- DARK MODE -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
     srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=32&duration=6000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Olá!+Me+chamo+Luiz+Gustavo+Cardoso;Full+Stack+Developer+em+formação;Aprender%2C+evoluir+e+resolver+problemas+com+código...;esse+é+o+meu+lema."
   />
-
-  <source
-    media="(prefers-color-scheme: light)"
+  <!-- LIGHT MODE -->
+  <source 
+    media="(prefers-color-scheme: light)" 
     srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=32&duration=6000&pause=1000&color=000000&center=true&vCenter=true&width=1200&lines=Olá!+Me+chamo+Luiz+Gustavo+Cardoso;Full+Stack+Developer+em+formação;Aprender%2C+evoluir+e+resolver+problemas+com+código...;esse+é+o+meu+lema."
   />
-
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=32&duration=6000&pause=1000&color=000000&center=true&vCenter=true&width=1200&lines=Olá!+Me+chamo+Luiz+Gustavo+Cardoso;Full+Stack+Developer+em+formação;Aprender%2C+evoluir+e+resolver+problemas+com+código...;esse+é+o+meu+lema."
-    alt="Typing SVG"
+  <!-- FALLBACK -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1200&size=32&duration=6000&pause=1000&color=000000&center=true&vCenter=true&width=1200&lines=Olá!+Me+chamo+Luiz+Gustavo+Cardoso;Full+Stack+Developer+em+formação;Aprender%2C+evoluir+e+resolver+problemas+com+código...;esse+é+o+meu+lema." 
+    alt="Typing SVG" 
+    width="100%"
   />
 </picture>
 
+</div>
 
 ### 🚀 Sobre mim
 
