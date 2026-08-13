@@ -6,7 +6,7 @@
 ### 🚀 Sobre mim
 
 - 🎯 **Foco atual**: Desenvolvimento Full Stack com tecnologias modernas  
--  Estudando e praticando constantemente: **React**, **Next.js**, **TypeScript**, **Javascript**, **Tailwind**, **Vue**, **Angular**, **SQL**, **NoSQL**, **Java**
+-  Estudando e praticando constantemente: **React**, **Next.js**, **TypeScript**, **Java**, **SQL**
 -  [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-cardoso/)  
 ---
 
